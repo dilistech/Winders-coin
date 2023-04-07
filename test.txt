@@ -1,0 +1,58 @@
+ <div class="container-fluid px-3 px-sm-5 my-5 text-center">
+        <h4 class="mb-5 font-weight-bold">What Our Client Say</h4>
+        <div class="owl-carousel owl-theme">
+            <div class="item first prev">
+                <div class="card border-0 py-3 px-4">
+                    <div class="row justify-content-center"> <img src="assets/imgs/ximena.jpg"
+                            class="img-fluid profile-pic mb-4 mt-3">
+                    </div>
+                    <h6 class="mb-3 mt-2">Xiemena Cindy</h6>
+                    <p class=" mb-5 mx-2">I invested in the Basic Plan. It wasn’t easy to wait days to have my
+                        bitcoins doubled, but most
+                        important thing is this site is legit and paying. Plus for good and patient support. I will
+                        invest
+                        again.</p>
+                </div>
+            </div>
+            <div class="item show">
+                <div class="card border-0 py-3 px-4">
+                    <div class="row justify-content-center"> <img src="assets/imgs/sisanda.jpg"
+                            class="img-fluid profile-pic mb-4 mt-3">
+                    </div>
+                    <h6 class="mb-3 mt-2">Sisanda Ndimande</h6>
+                    <p class=" mb-5 mx-2">With Elite pay I managed to work with my finance and found a great way to
+                        earn money all day
+                        long,
+                        not going at
+                        work!
+                        I began interested in investment and economy, therefore I can do some forecasts regarding
+                        Bitcoin.</p>
+                </div>
+            </div>
+            <div class="item next">
+                <div class="card border-0 py-3 px-4">
+                    <div class="row justify-content-center"> <img src="assets/imgs/john.jpg"
+                            class="img-fluid profile-pic mb-4 mt-3"> </div>
+                    <h6 class="mb-3 mt-2">John Paul</h6>
+                    <p class="content mb-5 mx-2">I started operating with Elite pay last year. I always follow up
+                        innovations and don’t miss any
+                        novelty.
+                        Bitcoin is a great and indeed revolutionary way to earn money! I
+                        constantly make payments and do mining - now I always have extra</p>
+                </div>
+            </div>
+            <div class="item last">
+                <div class="card border-0 py-3 px-4">
+                    <div class="row justify-content-center"> <img src="assets/imgs/richard.jpg"
+                            class="img-fluid profile-pic mb-4 mt-3">
+                    </div>
+                    <h6 class="mb-3 mt-2">William Richard</h6>
+                    <p class=" mb-5 mx-2">I invested in the Basic Plan. It wasn’t easy to wait days to have my
+                        bitcoins doubled, but most
+                        important thing is this site is legit and paying. Plus for good and patient support. I will
+                        invest
+                        again..</p>
+                </div>
+            </div>
+        </div>
+    </div>
